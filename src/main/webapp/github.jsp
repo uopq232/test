@@ -22,7 +22,7 @@
 <jsp:include page="/menu/top.jsp" flush='false' />
 <!-- ----------------------------------------- -->
  
-<DIV class='title'>Github 실습 4</DIV>
+<DIV class='title'>Github 실습 5</DIV>
  
 <!-- -------------------------------------------- -->
 <jsp:include page="/menu/bottom.jsp" flush='false' />
